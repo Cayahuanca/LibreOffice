@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="deleterowcolumns">
+        <item>行を削除</item>
+        <item>列を削除</item>
+        <item>テーブルを削除</item>
+    </string-array>
+    <string-array name="insertrowscolumns">
+        <item>前に行を挿入</item>
+        <item>後ろに行を挿入</item>
+        <item>前に列を挿入</item>
+        <item>後ろに列を挿入</item>
+        <item>テーブルを挿入</item>
+    </string-array>
+    <string name="CURRENT_DIRECTORY_KEY">CURRENT_DIRECTORY</string>
+    <string name="EXPLORER_VIEW_TYPE_KEY">EXPLORER_VIEW_TYPE</string>
+    <string name="UNO_commands_string_hint">UNO コマンド</string>
+    <string name="UNO_commands_string_parent_value_hint">親の値</string>
+    <string name="UNO_commands_string_type_hint">種類</string>
+    <string name="UNO_commands_string_value_hint">値</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about_license">ライセンス情報</string>
+    <string name="about_moreinfo">詳細</string>
+    <string name="about_notice">NOTICE</string>
+    <string name="action_UNO_commands">UNO コマンドを送信</string>
+    <string name="action_about">アプリケーション情報</string>
+    <string name="action_add_slide">スライドを追加</string>
+    <string name="action_add_worksheet">シートを追加</string>
+    <string name="action_back">戻る</string>
+    <string name="action_bold">太い</string>
+    <string name="action_cancel">キャンセル</string>
+    <string name="action_copy">コピー</string>
+    <string name="action_create">作成</string>
+    <string name="action_cut">切り取り</string>
+    <string name="action_delete_slide">スライドを削除</string>
+    <string name="action_delete_worksheet">ワークシートを削除</string>
+    <string name="action_exportToPDF">PDFにエクスポート</string>
+    <string name="action_fromat">フォーマットを有効化</string>
+    <string name="action_italic">斜体</string>
+    <string name="action_keyboard">キーボードを表示</string>
+    <string name="action_parts">ページ一覧</string>
+    <string name="action_paste">ペースト</string>
+    <string name="action_presentation">スライドを再生</string>
+    <string name="action_print">印刷</string>
+    <string name="action_pwd_dialog_OK">OK</string>
+    <string name="action_pwd_dialog_cancel">取り消す</string>
+    <string name="action_pwd_dialog_title">パスワードを入力してください。</string>
+    <string name="action_redo">やり直す</string>
+    <string name="action_rename_slide">スライド名を変更</string>
+    <string name="action_rename_worksheet">ワークシート名を変更</string>
+    <string name="action_save">保存</string>
+    <string name="action_search">検索</string>
+    <string name="action_settings">設定</string>
+    <string name="action_strikeout">取り消す</string>
+    <string name="action_text_copied">クリップボードにコピーされました</string>
+    <string name="action_underline">下線</string>
+    <string name="action_undo">元に戻す</string>
+    <string name="alert_cancel">キャンセル</string>
+    <string name="alert_copy_svg_slide_show_to_clipboard">Android デバイスはアプリ内での SVG スライドショーをサポートしていません。スライドショーのリンクをクリップボードにコピーしました。ウェブブラウザのアドレスバーにリンクを貼り付けて開いてください。</string>
+    <string name="alert_copy_svg_slide_show_to_clipboard_dismiss">了解</string>
+    <string name="alert_ok">OK</string>
+    <string name="app_about_name"><b>LibreOffice Viewer \'Beta\'</b></string>
+    <string name="app_credits">https://www.libreoffice.org</string>
+    <string name="app_description">LibreOffice Viewer は LibreOffice ベースのドキュメントビューアです。</string>
+    <string name="app_name">LibreOffice Viewer</string>
+    <string name="app_name_settings">LibreOffice Viewer の設定</string>
+    <string name="app_vendor">このリリースは $VENDOR によって提供されています</string>
+    <string name="app_version">Version: %1$s\nBuild ID: %2$s</string>
+    <string name="back_again_to_quit">戻るボタンをもう一度押すと終了します。</string>
+    <string name="bad_directory">不正なディレクトリのパス</string>
+    <string name="bmp_null">bmpが空です</string>
+    <string name="browser_app_name">LibreOffice ブラウザ</string>
+    <string name="calc_adjust_height">高さを調整</string>
+    <string name="calc_adjust_length">長さを調整</string>
+    <string name="calc_adjust_width">幅を調整</string>
+    <string name="calc_alert_double_click_optimal_length">ヘッダーをタブルタップすると、最適な幅・高さが設定されます。</string>
+    <string name="calc_delete">削除</string>
+    <string name="calc_hide">隠す</string>
+    <string name="calc_insert_before">挿入</string>
+    <string name="calc_optimal_height">最適な高さ</string>
+    <string name="calc_optimal_length">最適な長さ</string>
+    <string name="calc_optimal_length_confirm">了解</string>
+    <string name="calc_optimal_length_default_text">追加する長さを 100分の1mm 単位で入力</string>
+    <string name="calc_optimal_width">最適な幅</string>
+    <string name="calc_show">Show</string>
+    <string name="cancel_label">キャンセル</string>
+    <string name="close_document_locations">ドキュメントの場所を閉じる</string>
+    <string name="compress_photo_max_quality">最高品質</string>
+    <string name="compress_photo_medium_size">中サイズ</string>
+    <string name="compress_photo_no_compress">圧縮しない</string>
+    <string name="compress_photo_smallest_size">最小サイズ</string>
+    <string name="compress_photo_title">写真の圧縮をしますか？</string>
+    <string name="confirm_label">確認</string>
+    <string name="create_new_document_title">ファイル名を入力</string>
+    <string name="create_new_file_error">新しくファイルを作成できませんでした。ファイル名を確認してください。</string>
+    <string name="create_new_file_success">"新しくファイルを作成しました"</string>
+    <string name="current_dir">現在のディレクトリ： %1$s</string>
+    <string name="current_uno_command">現在の UNO コマンド</string>
+    <string name="default_document_name">無題</string>
+    <string name="directory_browser_label">ディレクトリを選択</string>
+    <string name="directory_not_saved">ディレクトリは保存されていません。</string>
+    <string name="display_language">使用する言語</string>
+    <string name="display_language_summary">デフォルトで使用する言語を設定します。</string>
+    <string name="document_locations">ドキュメントの場所</string>
+    <string name="enter_part_name">パーツ名を入力</string>
+    <string name="error">エラー</string>
+    <string name="ext_document_provider_error">無効なルートファイル。SDカードの設定を確認してください。</string>
+    <string name="external_sd_file_system">外部SDカード</string>
+    <string name="external_sd_path">外部SDカードのパス</string>
+    <string name="file_icon_desc">ファイルのアイコン</string>
+    <string name="filter">絞り込み</string>
+    <string name="filter_documents">文書ドキュメント</string>
+    <string name="filter_drawings">図形描画</string>
+    <string name="filter_everything">すべて</string>
+    <string name="filter_presentations">プレゼンテーション</string>
+    <string name="filter_spreadsheets">表計算ドキュメント</string>
+    <string name="font_color">フォントの色</string>
+    <string name="grid_view">グリッド</string>
+    <string name="highlight_color">ハイライト色</string>
+    <string name="insert_table">テーブルを挿入</string>
+    <string name="legacy_extsd_missing_error">無効なルートファイル。 内部ストレージの設定を確認してください。</string>
+    <string name="list_view">リスト</string>
+    <string name="local_documents">ドキュメントの場所</string>
+    <string name="local_file_system">内部ストレージ</string>
+    <string name="menu_preferences">設定</string>
+    <string name="menu_search">検索</string>
+    <string name="menu_sort_az">名前順</string>
+    <string name="menu_sort_modified">日付</string>
+    <string name="menu_sort_size">サイズ</string>
+    <string name="message_save_incomplete">保存に失敗しました。</string>
+    <string name="message_saved">保存に成功しました。</string>
+    <string name="message_saving">ドキュメントを保存中…</string>
+    <string name="name_already_used">その名前はすでに使用されています。</string>
+    <string name="new_drawing">新規 図形描画</string>
+    <string name="new_presentation">新規 プレゼンテーション</string>
+    <string name="new_spreadsheet">新規 表計算ドキュメント</string>
+    <string name="new_textdocument">新規 文書ドキュメント</string>
+    <string name="no_camera_found">カメラが見つかりませんでした</string>
+    <string name="no_save_document">保存しない</string>
+    <string name="open">開く</string>
+    <string name="otg_device_path">OTG デバイスのパス</string>
+    <string name="otg_file_system">OTG デバイス (実験的機能)</string>
+    <string name="otg_missing_error">無効なルートファイル。 OTG デバイスの接続と設定を確認してください。</string>
+    <string name="otg_warning">実験的機能：OTG デバイスが書き込み可能な場合にのみ使用します。</string>
+    <string name="owncloud">リモート サーバー</string>
+    <string name="owncloud_settings">ownCloud の設定</string>
+    <string name="owncloud_unauthorized">ownCloud サーバーにログインできませんでした。設定を確認してください</string>
+    <string name="owncloud_unspecified_error">ownCloud サーバーへの接続中に不明なエラーが発生しました。設定を確認するか、時間をあけてやり直してください。</string>
+    <string name="owncloud_wrong_connection">ownCloud サーバーに接続できませんでした。設定を確認してください。</string>
+    <string name="page">ページ</string>
+    <string name="part">パーツ</string>
+    <string name="part_deleted">パーツは削除されました</string>
+    <string name="part_name_changed">パーツ名を変更しました</string>
+    <string name="password">パスワード</string>
+    <string name="pdf_exported_at">PDFにエクスポートされました：</string>
+    <string name="physical_storage_settings">内部ストレージの設定</string>
+    <string name="pref_category_explorer">ファイル エクスプローラーの設定</string>
+    <string name="pref_category_general">基本設定</string>
+    <string name="pref_developer_mode">開発者モード</string>
+    <string name="pref_developer_mode_summary">アプリ内で "UNO" コマンドを有効化します。自己責任で使用してください。</string>
+    <string name="pref_experimental_editing">実験的機能</string>
+    <string name="pref_experimental_editing_summary">試験的編集機能を有効にします。自己責任で使用してください</string>
+    <string name="pref_file_explorer_title">エクスプローラーのレイアウト</string>
+    <string name="pref_filter_summary">デフォルトで使用するファイルのフィルターを設定します。</string>
+    <string name="pref_filter_title">デフォルトのファイルフィルター</string>
+    <string name="pref_show_hidden_files">隠しファイル</string>
+    <string name="pref_show_hidden_files_summary">隠しファイルの表示を有効化</string>
+    <string name="pref_sort_summary">ファイルの並び替え：名前順・サイズ・日付 から選択します。</string>
+    <string name="pref_sort_title">ファイルの並び替え</string>
+    <string name="pref_viewmode_summary">ファイルの表示形式を切り替えます。</string>
+    <string name="printing_not_supported">印刷はこのデバイスではサポートされていません。</string>
+    <string name="save_alert_dialog_title">閉じる前にこのドキュメントを保存しますか?</string>
+    <string name="save_document">保存</string>
+    <string name="search_label">開く</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="search_not_found">見つかりませんでした</string>
+    <string name="select_delete_options">削除オプションを選択</string>
+    <string name="select_insert_options">挿入オプションを選択：</string>
+    <string name="select_photo">写真を選択</string>
+    <string name="select_photo_title">写真を選択</string>
+    <string name="server_url">サーバーのURL</string>
+    <string name="server_url_and_port">ownCloud のサーバーのURLとポート</string>
+    <string name="share">共有</string>
+    <string name="share_via">共有</string>
+    <string name="sheet">シート</string>
+    <string name="slide">スライド</string>
+    <string name="slideshow_action_back">戻る</string>
+    <string name="sort">ソート</string>
+    <string name="sort_az">A-Z</string>
+    <string name="sort_largest">サイズが大きい順</string>
+    <string name="sort_newest">新しい順</string>
+    <string name="sort_oldest">古い順</string>
+    <string name="sort_smallest">サイズが小さい順</string>
+    <string name="sort_za">Z-A</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_provider_settings">保存先の設定</string>
+    <string name="tabhost_character">キャラクター</string>
+    <string name="tabhost_insert">挿入</string>
+    <string name="tabhost_paragraph">段落</string>
+    <string name="tabhost_style">スタイル</string>
+    <string name="take_photo">写真を撮影</string>
+    <string name="temp_file_saving_disabled">このファイルは読み取り専用です。上書き保存は無効になっています。</string>
+    <string name="title_browser">すべてのファイル</string>
+    <string name="title_recents">最近開いたファイル</string>
+    <string name="unable_to_export_pdf">PDFへのエクスポートに失敗しました</string>
+    <string name="unable_to_go_further">先に進めません。</string>
+    <string name="up_description">親ディレクトリへ</string>
+    <string name="usb_connected_configure">USB が接続されました、デバイスを構成します。.</string>
+    <string name="user_name">ユーザー名</string>
+</resources>
